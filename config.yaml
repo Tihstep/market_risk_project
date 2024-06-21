@@ -1,0 +1,36 @@
+rename: 
+    CHMF_<CLOSE> : Северсталь
+    gazp_<CLOSE> : Газпром_Нефть
+    ROSN_<CLOSE> : Роснефть
+    SNGSP_<CLOSE> : Сургутнефтегаз
+    sber_<CLOSE> : Сбербанк
+    STSB_<CLOSE> : Ставропольэнергосбыт
+    MGNT_<CLOSE> : Магнит
+    GMKN_<CLOSE> : Норильский_Никель
+    LPSB_<CLOSE> : ЛЭСК
+    LKOH_<CLOSE> : Лукойл
+
+    usd_rate_curs : Курс_доллара_США
+    eur_rate_curs : Курс_евро
+    
+    SU46023RMFS6_<CLOSE> : ОФЗ_46023
+    SU26212RMFS9_<CLOSE> : ОФЗ_29020
+    SU29020RMFS3_<CLOSE> : ОФЗ_26212
+    SU29015RMFS3_<CLOSE> : ОФЗ_29015
+    SU29009RMFS6_<CLOSE> : ОФЗ_29009
+
+    
+    brent_prices_price : Цена_нефти_Brent
+    int_rate_int_rate : Уровень_ставки ЦБ
+    rts_ind_CLOSE : Индекс_РТС
+    moex_ind_CLOSE : Индекс_МосБиржи
+    cdv_int_rate_KDV_1 : Компонент_процентной_ставки_1
+    cdv_int_rate_KDV_2 : Компонент_процентной_ставки_2
+    cdv_int_rate_KDV_3 : Компонент_процентной_ставки_3
+
+    risk_factors_Газ : Газ
+    risk_factors_Золото : Золото
+    risk_factors_Палладий : Палладий
+    risk_factors_Серебро : Серебро
+    risk_factors_Алюминий : Алюминий
+    risk_factors_Платина : Платина
